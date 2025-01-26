@@ -1,4 +1,5 @@
-############################################################################ LibraryManagement #######################################################################
+# Project Name
+LibraryManagement
 
 ## Overview
 LibraryManagement is an advanced library management system designed to streamline the cataloging, tracking, and lending of books, ensuring a seamless experience for both librarians and patrons. This application leverages modern technologies such as Java, Apache Kafka, and Spring Boot to ensure high performance and scalability. With integrated support for APIs, the system offers comprehensive functionality to manage books and authors, enabling efficient data handling and retrieval.
